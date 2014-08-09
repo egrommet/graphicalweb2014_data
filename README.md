@@ -1,7 +1,9 @@
 ## Introduction to R - the data
 
 ### How to get this data
-Follow link to "Simply download as zip" to download this dataset as a zip file
+
+Follow link to "Simply download as zip" or follow the link below to download this dataset as a zip file
+https://github.com/mupini/graphicalweb2014_data/archive/master.zip
 
 ### Credits:
 This data has been obtained from NHS England's A&E waiting times and Winter Daily sitrep datasets
