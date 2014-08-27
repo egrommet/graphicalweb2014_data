@@ -1,0 +1,158 @@
+Code,Name,Monday,Tuesday,Wednesday,Thursday,Friday
+RLT,George Eliot Hospital NHS Trust,4,9,0,4,2
+RJC,South Warwickshire NHS Foundation Trust,4,6,2,3,0
+RKB,University Hospitals Coventry and Warwickshire NHS Trust,5,25,8,5,8
+RWP,Worcestershire Acute Hospitals NHS Trust,14,54,9,19,17
+RLQ,Wye Valley NHS Trust,0,6,3,0,2
+RTE,Gloucestershire Hospitals NHS Foundation Trust,3,21,4,6,14
+RN3,Great Western Hospitals NHS Foundation Trust,4,4,1,6,1
+RD1,Royal United Hospital Bath NHS Trust,0,0,0,0,0
+RNZ,Salisbury NHS Foundation Trust,0,0,0,0,0
+RQ3,Birmingham Children's Hospital NHS Foundation Trust,0,0,0,0,0
+RLU,Birmingham Women's NHS Foundation Trust,0,0,0,0,0
+RR1,Heart of England NHS Foundation Trust,17,103,63,38,37
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,8,30,8,9,8
+RNA,The Dudley Group NHS Foundation Trust,5,45,21,10,3
+RL4,The Royal Wolverhampton NHS Trust,3,6,2,1,0
+RRK,University Hospitals Birmingham NHS Foundation Trust,13,50,15,9,24
+RBK,Walsall Healthcare NHS Trust,25,18,7,3,16
+RVJ,North Bristol NHS Trust,4,5,0,8,0
+RBA,Taunton and Somerset NHS Foundation Trust,0,5,4,0,0
+RA7,University Hospitals Bristol NHS Foundation Trust,15,8,13,0,0
+RA3,Weston Area Health NHS Trust,0,0,0,0,0
+RA4,Yeovil District Hospital NHS Foundation Trust,0,0,0,0,0
+RJR,Countess of Chester Hospital NHS Foundation Trust,9,6,3,5,15
+RJN,East Cheshire NHS Trust,1,2,1,4,0
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,0,0,0,0,0
+RWW,Warrington and Halton Hospitals NHS Foundation Trust,0,3,1,0,0
+RBL,Wirral University Teaching Hospital NHS Foundation Trust,0,0,0,0,0
+RLN,City Hospitals Sunderland NHS Foundation Trust,6,10,3,0,12
+RR7,Gateshead Health NHS Foundation Trust,0,0,0,0,0
+RNL,North Cumbria University Hospitals NHS Trust,2,0,3,0,0
+RTF,Northumbria Healthcare NHS Foundation Trust,1,7,14,1,0
+RE9,South Tyneside NHS Foundation Trust,0,0,0,0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,0,0,0,0,0
+RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,3,19,6,2,7
+RFS,Chesterfield Royal Hospital NHS Foundation Trust,0,0,1,0,1
+RTG,Derby Hospitals NHS Foundation Trust,37,49,22,27,17
+RX1,Nottingham University Hospitals NHS Trust,0,0,0,0,0
+RK5,Sherwood Forest Hospitals NHS Foundation Trust,4,28,0,9,4
+RBZ,Northern Devon Healthcare NHS Trust,5,3,4,1,3
+RK9,Plymouth Hospitals NHS Trust,0,8,0,0,0
+REF,Royal Cornwall Hospitals NHS Trust,0,1,0,0,0
+RH8,Royal Devon and Exeter NHS Foundation Trust,4,3,0,0,0
+RA9,South Devon Healthcare NHS Foundation Trust,0,4,10,1,2
+RXP,County Durham and Darlington NHS Foundation Trust,4,42,36,1,2
+RVW,North Tees and Hartlepool NHS Foundation Trust,0,0,0,0,0
+RTR,South Tees Hospitals NHS Foundation Trust,0,1,0,0,2
+RGT,Cambridge University Hospitals NHS Foundation Trust,3,5,5,0,0
+RQQ,Hinchingbrooke Health Care NHS Trust,0,0,0,0,0
+RGQ,Ipswich Hospital NHS Trust,4,7,4,0,1
+RGP,James Paget University Hospitals NHS Foundation Trust,2,3,0,0,1
+RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,26,4,1,1,11
+RGM,Papworth Hospital NHS Foundation Trust,0,0,0,0,0
+RGN,Peterborough and Stamford Hospitals NHS Foundation Trust,0,3,4,0,0
+RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",0,9,6,7,8
+RGR,West Suffolk NHS Foundation Trust,0,0,0,0,0
+RDD,Basildon and Thurrock University Hospitals NHS Foundation Trust,0,0,3,0,0
+RDE,Colchester Hospital University NHS Foundation Trust,4,17,24,5,2
+RQ8,Mid Essex Hospital Services NHS Trust,18,32,15,11,17
+RAJ,Southend University Hospital NHS Foundation Trust,3,48,4,7,8
+RQW,The Princess Alexandra Hospital NHS Trust,7,20,6,4,12
+RMC,Bolton NHS Foundation Trust,24,16,8,3,1
+RW3,Central Manchester University Hospitals NHS Foundation Trust,5,5,7,1,0
+RW6,Pennine Acute Hospitals NHS Trust,0,10,0,1,0
+RM3,Salford Royal NHS Foundation Trust,0,0,0,0,0
+RWJ,Stockport NHS Foundation Trust,6,8,9,9,1
+RMP,Tameside Hospital NHS Foundation Trust,1,11,4,3,0
+RBV,The Christie NHS Foundation Trust,0,0,0,0,0
+RM2,University Hospital of South Manchester NHS Foundation Trust,3,35,19,20,9
+RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",6,6,4,1,8
+RC1,Bedford Hospital NHS Trust,0,0,8,0,0
+RWH,East and North Hertfordshire NHS Trust,11,49,9,14,16
+RNQ,Kettering General Hospital NHS Foundation Trust,25,25,8,5,5
+RC9,Luton and Dunstable University Hospital NHS Foundation Trust,1,9,5,5,16
+RD8,Milton Keynes Hospital NHS Foundation Trust,3,9,11,11,3
+RNS,Northampton General Hospital NHS Trust,14,35,15,0,10
+RWG,West Hertfordshire Hospitals NHS Trust,11,13,12,6,4
+RN7,Dartford and Gravesham NHS Trust,2,2,0,6,0
+RVV,East Kent Hospitals University NHS Foundation Trust,3,10,4,11,4
+RWF,Maidstone and Tunbridge Wells NHS Trust,5,0,3,0,0
+RPA,Medway NHS Foundation Trust,0,0,8,15,0
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,1,2,0,1,6
+RXR,East Lancashire Hospitals NHS Trust,18,27,16,16,5
+RXN,Lancashire Teaching Hospitals NHS Foundation Trust,0,0,0,0,0
+RWD,United Lincolnshire Hospitals NHS Trust,24,53,70,18,17
+RWE,University Hospitals of Leicester NHS Trust,11,22,20,5,9
+RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",0,0,4,0,4
+RVL,Barnet and Chase Farm Hospitals NHS Trust,22,15,7,0,0
+R1H,Barts Health NHS Trust,0,0,0,0,0
+RQM,Chelsea and Westminster Hospital NHS Foundation Trust,0,0,0,0,0
+RJ6,Croydon Health Services NHS Trust,5,12,3,0,2
+RC3,Ealing Hospital NHS Trust,0,0,0,0,0
+RVR,Epsom and St Helier University Hospitals NHS Trust,3,16,0,0,0
+RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,0,0,0,0,0
+RJ1,Guy's and St Thomas' NHS Foundation Trust,0,0,0,0,0
+RQX,Homerton University Hospital NHS Foundation Trust,0,0,0,0,0
+RYJ,Imperial College Healthcare NHS Trust,0,0,0,0,0
+RJZ,King's College Hospital NHS Foundation Trust,2,0,0,0,0
+RAX,Kingston Hospital NHS Foundation Trust,0,0,0,0,0
+RJ2,Lewisham and Greenwich NHS Trust,15,1,4,0,0
+RP6,Moorfields Eye Hospital NHS Foundation Trust,0,0,0,0,0
+RAP,North Middlesex University Hospital NHS Trust,19,25,17,17,19
+RV8,North West London Hospitals NHS Trust,0,1,6,0,3
+RT3,Royal Brompton & Harefield NHS Foundation Trust,0,0,0,0,0
+RAL,Royal Free London NHS Foundation Trust,0,0,0,0,0
+RAN,Royal National Orthopaedic Hospital NHS Trust,0,0,0,0,0
+RJ7,St George's Healthcare NHS Trust,0,0,0,0,0
+RAS,The Hillingdon Hospitals NHS Foundation Trust,0,0,0,0,0
+RPY,The Royal Marsden NHS Foundation Trust,0,0,0,0,0
+RKE,The Whittington Hospital NHS Trust,0,0,0,0,0
+RRV,University College London Hospitals NHS Foundation Trust,0,0,0,0,0
+RFW,West Middlesex University Hospital NHS Trust,3,1,3,3,3
+REM,Aintree University Hospital NHS Foundation Trust,0,1,6,5,0
+RBS,Alder Hey Children's NHS Foundation Trust,0,0,0,0,0
+RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,0,0,0,0,0
+REP,Liverpool Women's NHS Foundation Trust,0,0,0,0,0
+RQ6,Royal Liverpool and Broadgreen University Hospitals NHS Trust,1,0,2,2,1
+RVY,Southport and Ormskirk Hospital NHS Trust,3,3,0,2,1
+RBN,St Helens and Knowsley Hospitals NHS Trust,1,3,1,5,2
+RET,The Walton Centre NHS Foundation Trust,0,0,0,0,0
+RCD,Harrogate and District NHS Foundation Trust,0,3,0,0,0
+RWA,Hull and East Yorkshire Hospitals NHS Trust,5,19,1,1,9
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,0,0,0,0,0
+RCB,York Teaching Hospital NHS Foundation Trust,5,12,1,10,0
+RJF,Burton Hospitals NHS Foundation Trust,0,2,0,0,2
+RJD,Mid Staffordshire NHS Foundation Trust,2,0,1,1,1
+RXW,Shrewsbury and Telford Hospital NHS Trust,7,29,14,5,24
+RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,0,0,0,0,0
+RJE,University Hospital of North Staffordshire NHS Trust,12,62,25,11,10
+RFF,Barnsley Hospital NHS Foundation Trust,0,0,1,0,0
+RP5,Doncaster and Bassetlaw Hospitals NHS Foundation Trust,0,1,1,0,0
+RCU,Sheffield Children's NHS Foundation Trust,0,0,0,0,0
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,0,6,1,0,0
+RFR,The Rotherham NHS Foundation Trust,0,0,0,0,0
+RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,1,3,4,0,23
+RXH,Brighton and Sussex University Hospitals NHS Trust,8,62,26,23,24
+RXC,East Sussex Healthcare NHS Trust,0,0,0,0,0
+RDU,Frimley Park Hospital NHS Foundation Trust,2,5,5,1,7
+RPC,Queen Victoria Hospital NHS Foundation Trust,0,0,0,0,0
+RA2,Royal Surrey County Hospital NHS Foundation Trust,1,9,0,1,0
+RTP,Surrey and Sussex Healthcare NHS Trust,0,0,0,0,2
+RYR,Western Sussex Hospitals NHS Foundation Trust,0,2,1,0,0
+RXQ,Buckinghamshire Healthcare NHS Trust,2,1,4,0,1
+RD7,Heatherwood and Wexham Park Hospitals NHS Foundation Trust,2,2,10,2,1
+RTH,Oxford University Hospitals NHS Trust,2,5,1,1,0
+RHW,Royal Berkshire NHS Foundation Trust,2,0,1,1,0
+RBD,Dorset County Hospital NHS Foundation Trust,1,7,0,2,2
+RN5,Hampshire Hospitals NHS Foundation Trust,3,11,9,1,0
+R1F,Isle of Wight NHS Trust,0,1,3,0,1
+RD3,Poole Hospital NHS Foundation Trust,2,20,2,0,0
+RHU,Portsmouth Hospitals NHS Trust,29,3,2,1,2
+RDZ,The Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust,0,3,0,0,2
+RHM,University Hospital Southampton NHS Foundation Trust,0,0,0,0,0
+RCF,Airedale NHS Foundation Trust,0,14,0,0,0
+RAE,Bradford Teaching Hospitals NHS Foundation Trust,0,3,0,0,2
+RWY,Calderdale and Huddersfield NHS Foundation Trust,0,2,1,0,0
+RR8,Leeds Teaching Hospitals NHS Trust,4,6,1,0,0
+RXF,Mid Yorkshire Hospitals NHS Trust,0,9,5,0,0
