@@ -23,7 +23,7 @@
 # # lets remove none major A&E departments. 
 # ae_data1 <- sqldf('select * from ae_data1 where admissions > 0')
 # # r alternative
-# ae_data1 <- ae_data1[ae_data$admissions > 0,]
+# ae_data1 <- ae_data1[ae_data1$admissions > 0,]
 # 
 # # loading dataset from a local excel file
 # workbook <- loadWorkbook('ane_weekly_sitrep_2.xlsx')
