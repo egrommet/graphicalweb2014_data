@@ -144,8 +144,8 @@
 # # order by one variable
 # sqldf('select code, monday, wednesday from ambulances_data order by monday')
 # ambulances_data[order(ambulances_data$Monday), c('Code', 'Monday', 'Wednesday')]
-# # can also be written as
-# # use with to tell R what dataset to use
+# # this can also be written using the with() function
+# # to tell R what dataset to use
 # ambulances_data[with(ambulances_data, order(Monday)), c('Code', 'Monday', 'Wednesday')]
 # 
 # # order by multiple variables 
