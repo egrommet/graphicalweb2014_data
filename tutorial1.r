@@ -89,7 +89,7 @@
 # # let us examine our dataset again
 # sqldf('select * from ambulances_data limit 7')
 # # r alternative
-# # head(ambulances_data, 7)
+# head(ambulances_data, 7)
 # 
 # # we need to sum up the week's totals that's what we care.
 # ambulance_queuing <- sqldf('SELECT Area_Team, Code, 
@@ -97,45 +97,45 @@
 #                            FROM ambulances_data')
 # 
 # # r equivalent
-# # ambulance_queuing$ambulances_queuing <- rowSums(ambulances_data[,3:7])
+# ambulance_queuing$ambulances_queuing <- rowSums(ambulances_data[,3:7])
 # 
 # head(ambulances_data)
 # 
 # # sometimes you may not be able to do the computation you require due to how R would be storing your values
 # # in order to use rowSums all columns need to be numeric
-# # class(ambulances_data$Monday)
-# # class(ambulances_data$Tuesday) # offending row
-# # class(ambulances_data$Wednesday)
-# # class(ambulances_data$Thursday)
-# # class(ambulances_data$Friday_Sunday)
+# class(ambulances_data$Monday)
+# class(ambulances_data$Tuesday) # offending row
+# class(ambulances_data$Wednesday)
+# class(ambulances_data$Thursday)
+# class(ambulances_data$Friday_Sunday)
 # # 
-# # ambulances_data$Tuesday <- as.numeric(ambulances_data$Tuesday)
-# # ambulance_queuing$ambulances_queuing <- rowSums(ambulances_data[,3:7])
+# ambulances_data$Tuesday <- as.numeric(ambulances_data$Tuesday)
+# ambulance_queuing$ambulances_queuing <- rowSums(ambulances_data[,3:7])
 # 
 # combined <- sqldf('SELECT area_team, name, a.code, attendance, seen_in_4hrs, admissions, ambulances_queuing 
 #                   FROM ambulance_queuing a, ae_complete b 
 #                   WHERE a.code = b.code')
 # head(ambulance_queuing)
 # # r equivalent
-# # combined <- merge(ambulance_queuing, ae_complete, by.x='Code', by.y='Code')
+# combined <- merge(ambulance_queuing, ae_complete, by.x='Code', by.y='Code')
 # 
 # 
 # # now lets see how many high frequency A&E's we have
 # high_frequency <- sqldf('select * from ae_complete where attendance > 4000')
 # # r equivalent
-# # high_frequency <- ae_complete[ae_complete$Attendance > 4000,]
+# high_frequency <- ae_complete[ae_complete$Attendance > 4000,]
 # 
 # # selecting certain columns
 # high_frequency <- sqldf('select name, attendance from ae_complete where attendance > 4000')
 # # r equivalent
-# # high_frequency <- ae_complete[ae_complete$Attendance > 4000, c('name', 'attendance')]
+# high_frequency <- ae_complete[ae_complete$Attendance > 4000, c('name', 'attendance')]
 # 
 # # sql query is case insensitive but dataframe name should match case
 # high_frequency <- sqldf('select name, AttendaNce from ae_complete where attendance > 4000')
 # 
 # # to use r equivalence
 # # rm(high_frequency)
-# # high_frequency <- ae_complete[ae_complete$Attendance > 4000, c('Name', 'Attendance')]
+# high_frequency <- ae_complete[ae_complete$Attendance > 4000, c('Name', 'Attendance')]
 # 
 # # Ordering results
 # # using ambulances dataset
